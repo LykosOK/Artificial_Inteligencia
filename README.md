@@ -1,2 +1,2 @@
-# Artificial_Inteligencia
-Programando IA
+# Artificial_Intelligence_FIME
+Repository for the subject "Artificial Intelligence"
